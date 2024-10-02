@@ -57,6 +57,7 @@ __global__ void updateGrid(bool* d_grid, bool* d_newGrid) {
 }
 ```
 ## How to Run
-1.Build the project in Visual Studio 2022.
-2.Run the project. The console will display the Game of Life grid, where live cells are shown as **O** and dead cells as spaces.
-3.The grid updates every 100 milliseconds. You can press **Ctrl + C** to stop the simulation.
+
+1. Build the project in Visual Studio 2022. 
+2. Run the project. The console will display the Game of Life grid, where live cells are shown as **O** and dead cells as spaces.
+3. The grid updates every 100 milliseconds. You can press **Ctrl + C** to stop the simulation.
